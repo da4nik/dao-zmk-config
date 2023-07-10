@@ -33,12 +33,12 @@
     combos {
         compatible = "zmk,combos";
 
-        new_combo {
+        prev_desktop {
             bindings = <&prev_desktop>;
             key-positions = <1 2 3>;
         };
 
-        new_combo {
+        next_desktop {
             bindings = <&next_desktop>;
             key-positions = <8 9 10>;
         };
