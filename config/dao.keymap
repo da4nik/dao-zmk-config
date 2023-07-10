@@ -59,7 +59,7 @@
         };
 
         right {
-            bindings = <&trans>;
+            bindings = <&kp RIGHT>;
             key-positions = <20 21>;
         };
     };
