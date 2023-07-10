@@ -42,6 +42,26 @@
             bindings = <&next_desktop>;
             key-positions = <8 9 10>;
         };
+
+        up {
+            bindings = <&kp UP_ARROW>;
+            key-positions = <8 19>;
+        };
+
+        down {
+            bindings = <&kp DOWN_ARROW>;
+            key-positions = <8 21>;
+        };
+
+        left {
+            bindings = <&kp LEFT>;
+            key-positions = <19 20>;
+        };
+
+        right {
+            bindings = <&trans>;
+            key-positions = <20 21>;
+        };
     };
 
     macros {
