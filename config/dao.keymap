@@ -129,9 +129,9 @@
 
         preps_layer {
             bindings = <
-&trans  &kp EXCLAMATION         &kp AT  &kp HASH  &kp DOLLAR  &kp PERCENT       &kp MINUS  &kp EQUAL  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS         &trans  &trans
-&trans        &kp CARET  &kp AMPERSAND  &kp STAR    &kp LPAR     &kp RPAR  &kp UNDERSCORE   &kp PLUS        &kp LEFT_BRACE        &kp RIGHT_BRACE       &kp PIPE  &trans
-&trans           &trans         &trans    &trans      &trans       &trans          &trans     &trans      &kp LEFT_BRACKET      &kp RIGHT_BRACKET  &kp BACKSLASH  &trans
+&trans  &kp EXCLAMATION         &kp AT  &kp HASH  &kp DOLLAR  &kp PERCENT       &kp MINUS  &kp EQUAL  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS     &trans  &trans
+&trans        &kp CARET  &kp AMPERSAND  &kp STAR    &kp LPAR     &kp RPAR  &kp UNDERSCORE   &kp PLUS        &kp LEFT_BRACE        &kp RIGHT_BRACE  &kp GRAVE  &trans
+&trans           &trans         &trans    &trans      &trans       &trans          &trans     &trans      &kp LEFT_BRACKET      &kp RIGHT_BRACKET  &kp TILDE  &trans
                                           &trans      &trans       &trans          &trans     &trans                &trans
             >;
         };
