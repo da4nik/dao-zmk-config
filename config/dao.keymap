@@ -63,7 +63,7 @@
             key-positions = <20 21>;
         };
 
-        new_combo {
+        enter {
             bindings = <&kp ENTER>;
             key-positions = <18 19>;
         };
