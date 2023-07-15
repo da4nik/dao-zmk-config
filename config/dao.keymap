@@ -50,7 +50,7 @@
 
         down {
             bindings = <&kp DOWN_ARROW>;
-            key-positions = <8 21>;
+            key-positions = <19 32 32>;
         };
 
         left {
