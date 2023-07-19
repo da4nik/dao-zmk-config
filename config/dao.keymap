@@ -60,7 +60,7 @@
 
         right {
             bindings = <&kp RIGHT>;
-            key-positions = <20 21 16>;
+            key-positions = <20 21>;
         };
 
         numeric_layer {
