@@ -72,6 +72,16 @@
             bindings = <&kp TAB>;
             key-positions = <13 14>;
         };
+
+        minus {
+            bindings = <&kp MINUS>;
+            key-positions = <6 7>;
+        };
+
+        underscore {
+            bindings = <&kp UNDERSCORE>;
+            key-positions = <18 19>;
+        };
     };
 
     macros {
